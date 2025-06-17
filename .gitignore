@@ -1,0 +1,14 @@
+# Ignore the virtual environment directory
+myvenv/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore temporary files
+temp/
